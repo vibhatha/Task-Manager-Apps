@@ -1,0 +1,13 @@
+Power.find().where('devices').equals('559e0c048dfa11781552c9c6').sort('-created').populate('creator', 'firstName lastName fullName').exec(function(err, powers) {
+		if (err) {
+			// If an error occurs send the error message
+			return res.status(400).send({
+				message: getErrorMessage(err)
+			});
+		} else {
+			// Send a JSON representation of the article 
+			res.json(powers);
+		}
+	});
+    
+    console.log('Power List');

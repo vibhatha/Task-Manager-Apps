@@ -1,0 +1,84 @@
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "80W",	 
+     pid: "P3",
+     created:ISODate("2015-07-12T03:18:07.679z"),
+     _v:0,
+	
+   }
+)
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "81W",	 
+     pid: "P4",
+     created:ISODate("2015-07-12T03:14:07.00z"),
+     _v:0,
+	
+   }
+)
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "83W",	 
+     pid: "P5",
+     created:ISODate("2015-07-12T03:18:07.679z"),
+     _v:0,
+	
+   }
+)
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "80W",	 
+     pid: "P6",
+     created:ISODate("2015-07-12T03:13:07.679z"),
+     _v:0,
+	
+   }
+)
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "81W",	 
+     pid: "P7",
+     created:ISODate("2015-07-12T03:02:07.679z"),
+     _v:0,
+	
+   }
+)
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "82W",	 
+     pid: "P8",
+     created:ISODate("2015-07-12T03:16:07.679z"),
+     _v:0,
+	
+   }
+)
+db.powers.insert(
+   {
+     creator:ObjectId("5595f39e162444a01bdcb271"),
+     devices:ObjectId("55ae097dc93cc9f81817bbda"), 
+     smartplugs: ObjectId("559e24771da86ea80999b2b7"),
+     consumption: "80W",	 
+     pid: "P9",
+     created:ISODate("2015-07-120T01:21:07.679z"),
+     _v:0,
+	
+   }
+)

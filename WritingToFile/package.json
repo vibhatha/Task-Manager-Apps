@@ -1,0 +1,13 @@
+{
+  "name": "WriteToTextFile",
+  "author": "Runnable",
+  "version": "0.0.1",
+  "description": "Runnable Sample Application",
+  "dependencies": {
+    "agenda": "*",
+	"fs":"*",
+	"path":"*",
+	"lodash":"*",
+	"async":"*"
+   }
+}
